@@ -1,4 +1,4 @@
-69# sqlmap-easy
+# sqlmap-easy
 
 # install and use
 
