@@ -1,10 +1,10 @@
-printf '\e[32m Download sqlmap-easy...\n'
+printf '\e[34m Download sqlmap-easy...\n\e[1;32m'
 pkg update -y && pkg upgrade
 pkg install toilet -y
-gem install toilet
 chmod +x sql
-rm ~/../user/bin/sql
-cp sql ~/../user/bin/sql
+rm -rf ~/../usr/bin/sql
+cp -r sql ~/../usr/bin/
 cd
 rm -rf sqlmap-Easy
+gem install toilet
 printf '\e[33m *Done to start enter sql\n'
