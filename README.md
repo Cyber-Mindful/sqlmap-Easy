@@ -11,6 +11,5 @@ bash install.sh
 sql
 ```
 # donate
-<form action="as9697347@gmail.com" method="post">
-   <buten>Click here to donate</buten>
-</from>
+
+<a href="as9697347@gmail.com" style="color: blue" target="_blank"><strong>Click here to donate</strong></a>
