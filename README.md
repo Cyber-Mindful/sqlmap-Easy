@@ -1,4 +1,4 @@
-# sqlmap-easy
+69# sqlmap-easy
 
 # install and use
 
@@ -12,4 +12,4 @@ sql
 ```
 # donate
 
-<a href="as9697347@gmail.com" style="color: blue" target="_blank"><strong>Click here to donate</strong></a>
+<a href="http://as9697347@gmail.com" style="color: blue" target="_blank"><strong>Click here to donate</strong></a>
