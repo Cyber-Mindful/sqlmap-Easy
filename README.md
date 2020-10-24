@@ -7,7 +7,7 @@
 ```
 git clone https://github.com/as9697347/sqlmap-Easy
 cd sqlmap-Easy
-bash install
+bash install.sh
 sql
 ```
 تبرع بفنجان قهوة
