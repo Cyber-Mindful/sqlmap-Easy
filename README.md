@@ -10,5 +10,7 @@ cd sqlmap-Easy
 bash install.sh
 sql
 ```
-تبرع بفنجان قهوة
-to as9697347@gmail.com
+# donate
+<form action="as9697347@gmail.com" method="post">
+   <buten>Click here to donate</buten>
+</from>
